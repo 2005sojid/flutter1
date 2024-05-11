@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136134771629",
+    "project_id": "chatapptutorial-bf32a",
+    "storage_bucket": "chatapptutorial-bf32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136134771629:android:e519279a24be66219ad724",
+        "android_client_info": {
+          "package_name": "com.example.flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLn45u7878FSPv3fLPvpzxiOeTuBtT730"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
